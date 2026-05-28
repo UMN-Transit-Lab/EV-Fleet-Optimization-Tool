@@ -1,0 +1,131 @@
+Category,Phase,Station,Route,Time,Charger Type,Value,Description
+Opened Charging Station,1,Cluster_0,,,,,Station Cluster_0 is opened at Phase 1
+Opened Charging Station,3,Cluster_1,,,,,Station Cluster_1 is opened at Phase 3
+Opened Charging Station,1,Cluster_2,,,,,Station Cluster_2 is opened at Phase 1
+Opened Charging Station,1,Cluster_3,,,,,Station Cluster_3 is opened at Phase 1
+Electrified Route,3,,Cluster_0_H,,,,Route Cluster_0_H is electrified at Phase 3
+Electrified Route,3,,Cluster_0_M,,,,Route Cluster_0_M is electrified at Phase 3
+Electrified Route,1,,Cluster_0_L,,,,Route Cluster_0_L is electrified at Phase 1
+Electrified Route,2,,Cluster_0_L,,,,Route Cluster_0_L is electrified at Phase 2
+Electrified Route,3,,Cluster_0_L,,,,Route Cluster_0_L is electrified at Phase 3
+Electrified Route,1,,Cluster_1_M,,,,Route Cluster_1_M is electrified at Phase 1
+Electrified Route,2,,Cluster_1_M,,,,Route Cluster_1_M is electrified at Phase 2
+Electrified Route,3,,Cluster_1_M,,,,Route Cluster_1_M is electrified at Phase 3
+Electrified Route,3,,Cluster_1_L,,,,Route Cluster_1_L is electrified at Phase 3
+Electrified Route,1,,Cluster_2_L,,,,Route Cluster_2_L is electrified at Phase 1
+Electrified Route,2,,Cluster_2_L,,,,Route Cluster_2_L is electrified at Phase 2
+Electrified Route,3,,Cluster_2_L,,,,Route Cluster_2_L is electrified at Phase 3
+Electrified Route,2,,Cluster_3_L,,,,Route Cluster_3_L is electrified at Phase 2
+Electrified Route,3,,Cluster_3_L,,,,Route Cluster_3_L is electrified at Phase 3
+Fleet Size,1,,Cluster_0_L,,,3,"Phase 1, Route Cluster_0_L: 3 vehicles"
+Fleet Size,1,,Cluster_1_M,,,1,"Phase 1, Route Cluster_1_M: 1 vehicles"
+Fleet Size,1,,Cluster_2_L,,,12,"Phase 1, Route Cluster_2_L: 12 vehicles"
+Fleet Size,2,,Cluster_0_L,,,3,"Phase 2, Route Cluster_0_L: 3 vehicles"
+Fleet Size,2,,Cluster_1_M,,,1,"Phase 2, Route Cluster_1_M: 1 vehicles"
+Fleet Size,2,,Cluster_2_L,,,14,"Phase 2, Route Cluster_2_L: 14 vehicles"
+Fleet Size,2,,Cluster_3_L,,,48,"Phase 2, Route Cluster_3_L: 48 vehicles"
+Fleet Size,3,,Cluster_0_H,,,2,"Phase 3, Route Cluster_0_H: 2 vehicles"
+Fleet Size,3,,Cluster_0_M,,,16,"Phase 3, Route Cluster_0_M: 16 vehicles"
+Fleet Size,3,,Cluster_0_L,,,3,"Phase 3, Route Cluster_0_L: 3 vehicles"
+Fleet Size,3,,Cluster_1_M,,,1,"Phase 3, Route Cluster_1_M: 1 vehicles"
+Fleet Size,3,,Cluster_1_L,,,9,"Phase 3, Route Cluster_1_L: 9 vehicles"
+Fleet Size,3,,Cluster_2_L,,,14,"Phase 3, Route Cluster_2_L: 14 vehicles"
+Fleet Size,3,,Cluster_3_L,,,48,"Phase 3, Route Cluster_3_L: 48 vehicles"
+Route-to-Station Assignment,1,Cluster_0,Cluster_0_L,,,,Route Cluster_0_L assigned to Station Cluster_0 at Phase 1
+Route-to-Station Assignment,1,Cluster_2,Cluster_2_L,,,,Route Cluster_2_L assigned to Station Cluster_2 at Phase 1
+Route-to-Station Assignment,1,Cluster_3,Cluster_1_M,,,,Route Cluster_1_M assigned to Station Cluster_3 at Phase 1
+Route-to-Station Assignment,2,Cluster_0,Cluster_0_L,,,,Route Cluster_0_L assigned to Station Cluster_0 at Phase 2
+Route-to-Station Assignment,2,Cluster_2,Cluster_1_M,,,,Route Cluster_1_M assigned to Station Cluster_2 at Phase 2
+Route-to-Station Assignment,2,Cluster_2,Cluster_2_L,,,,Route Cluster_2_L assigned to Station Cluster_2 at Phase 2
+Route-to-Station Assignment,2,Cluster_3,Cluster_3_L,,,,Route Cluster_3_L assigned to Station Cluster_3 at Phase 2
+Route-to-Station Assignment,3,Cluster_0,Cluster_0_H,,,,Route Cluster_0_H assigned to Station Cluster_0 at Phase 3
+Route-to-Station Assignment,3,Cluster_0,Cluster_0_M,,,,Route Cluster_0_M assigned to Station Cluster_0 at Phase 3
+Route-to-Station Assignment,3,Cluster_0,Cluster_0_L,,,,Route Cluster_0_L assigned to Station Cluster_0 at Phase 3
+Route-to-Station Assignment,3,Cluster_1,Cluster_1_M,,,,Route Cluster_1_M assigned to Station Cluster_1 at Phase 3
+Route-to-Station Assignment,3,Cluster_1,Cluster_1_L,,,,Route Cluster_1_L assigned to Station Cluster_1 at Phase 3
+Route-to-Station Assignment,3,Cluster_2,Cluster_2_L,,,,Route Cluster_2_L assigned to Station Cluster_2 at Phase 3
+Route-to-Station Assignment,3,Cluster_3,Cluster_3_L,,,,Route Cluster_3_L assigned to Station Cluster_3 at Phase 3
+Chargers Installed,1,Cluster_0,,,DC,1,"1 charger(s) of type DC at Station Cluster_0, Phase 1"
+Chargers Installed,1,Cluster_2,,,L1,2,"2 charger(s) of type L1 at Station Cluster_2, Phase 1"
+Chargers Installed,1,Cluster_2,,,DC,1,"1 charger(s) of type DC at Station Cluster_2, Phase 1"
+Chargers Installed,1,Cluster_3,,,L2,4,"4 charger(s) of type L2 at Station Cluster_3, Phase 1"
+Chargers Installed,1,Cluster_3,,,DC,1,"1 charger(s) of type DC at Station Cluster_3, Phase 1"
+Chargers Installed,2,Cluster_0,,,DC,1,"1 charger(s) of type DC at Station Cluster_0, Phase 2"
+Chargers Installed,2,Cluster_2,,,L1,2,"2 charger(s) of type L1 at Station Cluster_2, Phase 2"
+Chargers Installed,2,Cluster_2,,,DC,1,"1 charger(s) of type DC at Station Cluster_2, Phase 2"
+Chargers Installed,2,Cluster_3,,,L2,4,"4 charger(s) of type L2 at Station Cluster_3, Phase 2"
+Chargers Installed,2,Cluster_3,,,DC,1,"1 charger(s) of type DC at Station Cluster_3, Phase 2"
+Chargers Installed,3,Cluster_0,,,DC,1,"1 charger(s) of type DC at Station Cluster_0, Phase 3"
+Chargers Installed,3,Cluster_0,,,MCS,1,"1 charger(s) of type MCS at Station Cluster_0, Phase 3"
+Chargers Installed,3,Cluster_1,,,L1,1,"1 charger(s) of type L1 at Station Cluster_1, Phase 3"
+Chargers Installed,3,Cluster_1,,,DC,1,"1 charger(s) of type DC at Station Cluster_1, Phase 3"
+Chargers Installed,3,Cluster_2,,,L1,2,"2 charger(s) of type L1 at Station Cluster_2, Phase 3"
+Chargers Installed,3,Cluster_2,,,DC,1,"1 charger(s) of type DC at Station Cluster_2, Phase 3"
+Chargers Installed,3,Cluster_3,,,L2,4,"4 charger(s) of type L2 at Station Cluster_3, Phase 3"
+Chargers Installed,3,Cluster_3,,,DC,1,"1 charger(s) of type DC at Station Cluster_3, Phase 3"
+Vehicles Charging,1,Cluster_0,Cluster_0_L,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 1"
+Vehicles Charging,1,Cluster_0,Cluster_0_L,4,,1,"At Time 4, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 1"
+Vehicles Charging,1,Cluster_0,Cluster_0_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,1,,1,"At Time 1, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,2,,3,"At Time 2, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,3,,3,"At Time 3, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,4,,3,"At Time 4, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,8,,3,"At Time 8, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_2,Cluster_2_L,24,,3,"At Time 24, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 1"
+Vehicles Charging,1,Cluster_3,Cluster_1_M,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_1_M charge at Station Cluster_3 in Phase 1"
+Vehicles Charging,2,Cluster_0,Cluster_0_L,2,,1,"At Time 2, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 2"
+Vehicles Charging,2,Cluster_0,Cluster_0_L,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 2"
+Vehicles Charging,2,Cluster_0,Cluster_0_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_1_M,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_1_M charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,1,,3,"At Time 1, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,2,,3,"At Time 2, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,3,,3,"At Time 3, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,4,,3,"At Time 4, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,14,,1,"At Time 14, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_2,Cluster_2_L,24,,3,"At Time 24, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,1,,4,"At Time 1, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,2,,4,"At Time 2, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,3,,4,"At Time 3, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,4,,4,"At Time 4, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,5,,4,"At Time 5, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,6,,2,"At Time 6, 2.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,2,Cluster_3,Cluster_3_L,24,,4,"At Time 24, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 2"
+Vehicles Charging,3,Cluster_0,Cluster_0_H,2,,1,"At Time 2, 1.0 vehicles from Route Cluster_0_H charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_H,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_0_H charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,1,,1,"At Time 1, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,2,,1,"At Time 2, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,4,,1,"At Time 4, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,7,,1,"At Time 7, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,8,,1,"At Time 8, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,11,,1,"At Time 11, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,13,,1,"At Time 13, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,14,,1,"At Time 14, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,21,,1,"At Time 21, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,23,,1,"At Time 23, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_M,24,,1,"At Time 24, 1.0 vehicles from Route Cluster_0_M charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_L,3,,1,"At Time 3, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_0,Cluster_0_L,24,,1,"At Time 24, 1.0 vehicles from Route Cluster_0_L charge at Station Cluster_0 in Phase 3"
+Vehicles Charging,3,Cluster_1,Cluster_1_M,2,,1,"At Time 2, 1.0 vehicles from Route Cluster_1_M charge at Station Cluster_1 in Phase 3"
+Vehicles Charging,3,Cluster_1,Cluster_1_L,1,,2,"At Time 1, 2.0 vehicles from Route Cluster_1_L charge at Station Cluster_1 in Phase 3"
+Vehicles Charging,3,Cluster_1,Cluster_1_L,4,,2,"At Time 4, 2.0 vehicles from Route Cluster_1_L charge at Station Cluster_1 in Phase 3"
+Vehicles Charging,3,Cluster_1,Cluster_1_L,5,,2,"At Time 5, 2.0 vehicles from Route Cluster_1_L charge at Station Cluster_1 in Phase 3"
+Vehicles Charging,3,Cluster_1,Cluster_1_L,24,,2,"At Time 24, 2.0 vehicles from Route Cluster_1_L charge at Station Cluster_1 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,1,,3,"At Time 1, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,2,,3,"At Time 2, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,3,,3,"At Time 3, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,4,,3,"At Time 4, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,5,,1,"At Time 5, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,6,,1,"At Time 6, 1.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_2,Cluster_2_L,24,,3,"At Time 24, 3.0 vehicles from Route Cluster_2_L charge at Station Cluster_2 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,1,,4,"At Time 1, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,2,,4,"At Time 2, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,3,,4,"At Time 3, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,4,,4,"At Time 4, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,5,,4,"At Time 5, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,6,,2,"At Time 6, 2.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
+Vehicles Charging,3,Cluster_3,Cluster_3_L,24,,4,"At Time 24, 4.0 vehicles from Route Cluster_3_L charge at Station Cluster_3 in Phase 3"
