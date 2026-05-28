@@ -2,7 +2,7 @@
 
 *This tool was developed as part of the **Transitioning to EV Fleets: Best Practices and a Decision Tool** project.*
 * 📄 [Project Report Website](https://mdl.mndot.gov/items/202615)
-* 📊 [Life Cycle Cost Calculation Tool](../GitHub_LCC_Calculation/README_Life_Cycle_Cost_Calculation.md)
+* 📊 [Life Cycle Cost Calculation Tool](https://github.com/UMN-Transit-Lab/EV-Life-Cycle-Cost-Calculation-Tool)
 
 Welcome to the **EV Transition Optimization Tool**! This project is designed to help organizations plan the best way to transition all their vehicle classes from gas/diesel vehicles to Electric Vehicles (EVs). 
 
