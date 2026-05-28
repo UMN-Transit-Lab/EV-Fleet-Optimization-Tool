@@ -9,7 +9,7 @@
 	Under supervision of Alireza Khani
 
 Contact:
-    Alireza Khani:  akhani@utexas.edu or akhani@email.arizona.edu
+    Alireza Khani:  akhani@umn.edu or akhani.phd@gmail.com
     Nastaran Tork: 	tork0100@umn.edu
     Behnam Davazdah Emami:   davaz001@umn.edu
 -------------------------------------------------------
